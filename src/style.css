@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Quicksand";
+  src: local("Quicksand"), url(./webfonts/Quicksand-VariableFont_wght.ttf);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
